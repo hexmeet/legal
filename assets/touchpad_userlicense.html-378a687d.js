@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c00368d6","path":"/touchpad_userlicense.html","title":"中创视讯智能触控平板用户许可及服务协议","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1713265056000,"updatedTime":1713265056000,"contributors":[{"name":"zhongmou","email":"zhongmou@mulu.online","commits":1}]},"filePathRelative":"touchpad_userlicense.md"}');export{e as data};
