@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{"home":false,"footer":"版权所有 © 2023-中创视讯"},"headers":[],"git":{"createdTime":1696906556000,"updatedTime":1696906556000,"contributors":[{"name":"zhongmou","email":"zhongmou@mulu.online","commits":1}]},"filePathRelative":"README.md"}');export{e as data};
